@@ -1,6 +1,5 @@
 # Hi there 👋
 ## I'm Vidyut Baradwaj, a rising fourth year Computational and Applied Mathematics student at The University of Chicago. I will also be pursuing my Master's in Computer Science starting in Winter 2024
-Pronouns: He/Him
 
 ### Skills:
 Proficient: Python
